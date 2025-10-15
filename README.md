@@ -34,8 +34,8 @@ It allows users to manage daily tasks efficiently from the command line.
 
 **🛠️ Technologies Used**
 
-      Python 3.x
+   Python 3.x
 
 **👤 Author**
 
-      Harshitha Nuthikadi
+   Harshitha Nuthikadi
