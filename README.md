@@ -23,3 +23,19 @@ It allows users to manage daily tasks efficiently from the command line.
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-username/python-todo-list.git
+2. **Navigate to the project folder**:
+
+cd python-todo-list
+
+
+3. **Run the application**:
+
+python todo.py
+
+🛠️ Technologies Used
+
+Python 3.x
+
+👤 Author
+
+Harshitha Nuthikadi
